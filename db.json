@@ -1,0 +1,28 @@
+{
+"news": [
+  {
+    "id" : 1,
+    "title" : "test",
+    "text" : "test",
+    "img" : ""
+  },
+  {
+    "id" : 2,
+    "title" : "test",
+    "text" : "test",
+    "img" : ""
+  },
+  {
+    "id" : 3,
+    "title" : "test",
+    "text" : "test",
+    "img" : ""
+  },
+  {
+    "id" : 4,
+    "title" : "test",
+    "text" : "test",
+    "img" : ""
+  }
+]
+}
