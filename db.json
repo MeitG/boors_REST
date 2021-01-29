@@ -47,5 +47,28 @@
             "video" : "https://www.youtube.com/watch?v=AdHb53pEKNQ&ab_channel=Moinsadeghian",
             "id" : 3
         }
-    ]
+    ],
+"courses" : [
+{
+            "title" : "دوره رایگان آموزش فارکس",
+            "min" : "25 دقیقه",
+            "thumb" : "https://raw.githubusercontent.com/MeitG/boors_REST/master/thum_5.jpg",
+            "video" : "https://www.youtube.com/watch?v=TFAMF8odF20&ab_channel=Moinsadeghian",
+            "id" : 1
+        },
+        {
+            "title" : "دلار پس از بازگشت آمریکا به برجام جقدر می شود؟",
+            "min" : "8 دقیقه",
+            "thumb" : "https://raw.githubusercontent.com/MeitG/boors_REST/master/thumb_6.jpg",
+            "video" : "https://www.youtube.com/watch?v=05WTvreF2lw",
+            "id" : 2
+        },
+        {
+            "title" : "آموزش فارکس",
+            "min" : "25",
+            "thumb" : "https://raw.githubusercontent.com/MeitG/boors_REST/master/thumb_4.jpg",
+            "video" : "https://www.youtube.com/watch?v=AdHb53pEKNQ&ab_channel=Moinsadeghian",
+            "id" : 3
+        }
+]
 }
