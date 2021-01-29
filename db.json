@@ -24,5 +24,25 @@
     "text" : "رئیس سابق سازمان بورس و اوراق بهادار وضعیت بازار سرمایه از ابتدای سال تا ۳۰ دی ماه را تشریح و گفت: شرایط امسال بازار سرمایه جدید بود. امسال هم آزادسازی سهام عدالت صورت گرفت و هم ETFها عرضه شدند. از سوی دیگر نقدینگی زیادی وارد این بازار شد. از ابتدای سال تا مرداد سال جاری، ۱۲۰هزار میلیارد تومان نقدینگی جدید وارد بازار شد.",
     "img" : "https://tejaratnews.com/wp-content/uploads/2021/01/158857965955273100.jpg"
   }
-]
+],
+"pcourses" : [
+        {
+            "title" : "پذیره نویسی چیست ؟",
+            "min" : "10 دقیقه",
+            "thumb" : "https://raw.githubusercontent.com/MeitG/boors_REST/master/thum_2.jpg",
+            "video" : "https://www.youtube.com/watch?v=8Jcx7DOr-ww"
+        },
+        {
+            "title" : "چطور سرخطی بزنیم؟",
+            "min" : "8 دقیقه",
+            "thumb" : "https://raw.githubusercontent.com/MeitG/boors_REST/master/thumb_3.jpg",
+            "video" : "https://www.youtube.com/watch?v=WtR2LSCDU3Q&ab_channel=Moinsadeghian"
+        },
+        {
+            "title" : "آموزش فارکس",
+            "min" : "25",
+            "thumb" : "https://raw.githubusercontent.com/MeitG/boors_REST/master/thumb_4.jpg",
+            "video" : "https://www.youtube.com/watch?v=AdHb53pEKNQ&ab_channel=Moinsadeghian"
+        }
+    ]
 }
